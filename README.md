@@ -9,10 +9,10 @@ it is a place to store your identical working directories or repositories.
 
 ---
 ## Initial Setup
-First, By creating a github account you have to sign up with your email (HSTAT email is preferred, ex. lizettea5143@hstat.org) and
+First, By creating a github account you have to sign up with your email (HSTAT email is preferred) and
 create a password in order to create the account. Once you've created your account you can offically sign into your IDE account with
 the following link provided.
-[Link Text](github.com/hstatsep/ide50)
+[(github.com/hstatsep/ide50)]
 ---
 ## Repository Setup
  In order to create a repo, go into your github account and click on the "+" on the right top corner. Once you have done this, Name 
