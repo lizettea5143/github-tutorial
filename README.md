@@ -2,7 +2,7 @@
 _by Lizette Aguirre_
 ---
 ## Git vs. GitHub
- 
+
 Git is a software which tracks the changes when working with computer codes, and Github is a control repository hosting service 
 it is a place to store your identical working directories or repositories.
 ---
@@ -11,7 +11,7 @@ it is a place to store your identical working directories or repositories.
 First, By creating a github account you have to sign up with your email (HSTAT email is preferred) and
 create a password in order to create the account. Once you've created your account you can offically sign into your IDE account with
 the following link provided.
-[github.com/hstatsep/ide50]
+[github.com/hstatsep/ide50] 
 ---
 ## Repository Setup
 
